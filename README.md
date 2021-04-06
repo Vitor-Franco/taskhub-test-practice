@@ -61,7 +61,7 @@ Este projeto utiliza as seguintes principais tecnologias:
 
 Entre outras...
 
-## 📝Projeto
+## 📝 Projeto
 TaskHub possibilita a criação de TodoLists, junto a um sistema de Login para que cada usuário possa **editar, excluir, visualizar e concluir** apenas as suas próprias Tasks.
 
 Sua interface, principalmente a homepage baseia-se totalmente na Home do GitHub. E traz junto a ela um formulário para cadastro.
