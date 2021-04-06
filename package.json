@@ -1,5 +1,5 @@
 {
-  "name": "vercel-test-practice",
+  "name": "verzel-test-practice",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,10 +7,20 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "@unform/core": "^2.1.6",
+    "@unform/web": "^2.1.6",
+    "date-fns": "^2.19.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-icons": "^4.2.0",
+    "react-modal": "^3.12.1",
     "react-redux": "^7.1.3",
-    "react-scripts": "4.0.3"
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "redux-persist": "^6.0.0",
+    "styled-components": "^5.2.3",
+    "uuid": "^8.3.2",
+    "yup": "^0.32.9"
   },
   "scripts": {
     "start": "react-scripts start",
